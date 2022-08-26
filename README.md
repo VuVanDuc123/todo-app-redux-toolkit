@@ -1,6 +1,6 @@
 pages demo: https://vuvanduc123.github.io/todo-app-redux-toolkit/
 
-giải thích các bước:
+Giải thích các bước:
 
 1-> store
 -npm install @reduxjs/toolkit
